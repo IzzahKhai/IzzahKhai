@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Izzah 👋
+- 🎓 Computer science graduate from UiTM Shah Alam, Malaysia
+- 🐈 Cat lover
 
-<!--
-**IzzahKhai/IzzahKhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Languanges 
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-Here are some ideas to get you started:
+#### Technologies
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![IntelliJIDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=IntelliJIDEA)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=PostgreSql)
+![Selenium](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
